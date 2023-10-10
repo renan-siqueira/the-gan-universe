@@ -1,0 +1,16 @@
+.venv
+.vscode
+__pycache__
+
+dataset*
+data
+generated
+
+settings.py
+
+params.json
+
+*.png
+*.jpg
+*.mp4
+*.avi
